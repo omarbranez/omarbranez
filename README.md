@@ -7,7 +7,7 @@
   - Deploy to Heroku
   - Export to React Native
 ## BarCaptain 🍺 🍻 🍷 🍹 🍸
-  Currently deployed to [Heroku](https://bar-captain.herokuapp.com) 
+  Currently deployed to [Heroku](https://bar-captain.herokuapp.com)   
   To Do: 
   - Convert from Sinatra frontend and backend to Ruby on Rails backend and React frontend
   - Reduce number of backend fetches and queries
@@ -23,7 +23,7 @@
   - Develop Karaoke Mode
   - Implement songlist import/export
 
-Personal site: UNDER CONSTRUCTION
+Personal site: UNDER CONSTRUCTION   
 LinkedIn: [Omar Branez](https://www.linkedin.com/in/omarbranez/)
  
 <!--
