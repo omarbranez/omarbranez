@@ -11,7 +11,7 @@
   To Do: 
   - [x] Convert from Sinatra frontend and backend to Ruby on Rails backend and React frontend
   - [x] Reduce number of backend fetches and queries -> eager loading eliminated N+1 queries
-  - [ ] Improve mobile user experience
+  - [ ] Various UI/UX optimizations
 ## Nugget Bridge 🏆 🎮 🎲
   To Do:
   - [ ] Deploy to Heroku
