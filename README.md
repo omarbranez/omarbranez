@@ -5,7 +5,8 @@
 ## MuttMap 🐶 🐕 🦮
   To Do: 
   - [ ] Deploy to Heroku
-  - [ ] Export to React Native
+  - [ ] Port to React Native frontend
+  - [ ] Port to Node backend
 ## BarCaptain 🍺 🍻 🍷 🍹 🍸
   Currently deployed to [Heroku](https://bar-captain.herokuapp.com)   
   To Do: 
