@@ -1,5 +1,7 @@
 # Welcome!
 
+# I'm a Brooklyn-based full stack developer proficient in React, JavaScript, Ruby on Rails, and Node. 
+
 ###### These are the projects I'm currently working on. 
 
 ## MuttMap 🐶 🐕 🦮
