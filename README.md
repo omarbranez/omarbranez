@@ -8,7 +8,7 @@
   To Do: 
   - [ ] Deploy to Heroku
   - [ ] Port to React Native frontend
-  - [ ] Port to Node backend
+  - [x] Port to Node backend
 ## BarCaptain 🍺 🍻 🍷 🍹 🍸
   Currently deployed to [Heroku](https://bar-captain.herokuapp.com)   
   To Do: 
